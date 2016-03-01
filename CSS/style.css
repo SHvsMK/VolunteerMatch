@@ -1,0 +1,81 @@
+#ProfileImage {
+  width: 200px;
+}
+
+.EventImage {
+  width: 60px;
+  height: 60px;
+}
+
+.Female {
+  width: 60px;
+  height: 60px;
+}
+
+.Male {
+  width: 60px;
+  height: 60px;
+}
+
+.peopleImage {
+  width: 60px;
+  height: 60px;
+}
+
+.People {
+   margin-top: 20px;
+}
+
+.Event {
+   margin-top: 20px;
+}
+
+#pagedisplay {
+  text-align: center;
+}
+
+#content {
+  text-align: center;
+}
+
+.row {
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+.small-img {
+	width: 30px;
+}
+
+.navbar {
+  border :none;
+}
+
+.big-icon {
+  width: 80px;
+}
+
+.sm-pic {
+  max-width: 200px;
+  max-height: 180px;
+}
+#font-big {
+  font-size: 20px;
+}
+
+.same-size {
+   height: 180px;
+   width: 20px;
+}
+.caption {
+  text-align: center;
+}
+
+/*#table_1 {
+  border:none;
+  text-align: top;
+}*/
+
+/*#img-profile {
+  width: 200px;
+}*/
